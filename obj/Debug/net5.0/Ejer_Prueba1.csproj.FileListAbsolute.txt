@@ -1,0 +1,16 @@
+C:\Users\danie\Documents\ESTRUCTURA DE DATOS\Ejer_Prueba1\bin\Debug\net5.0\Ejer_Prueba1.exe
+C:\Users\danie\Documents\ESTRUCTURA DE DATOS\Ejer_Prueba1\bin\Debug\net5.0\Ejer_Prueba1.deps.json
+C:\Users\danie\Documents\ESTRUCTURA DE DATOS\Ejer_Prueba1\bin\Debug\net5.0\Ejer_Prueba1.runtimeconfig.json
+C:\Users\danie\Documents\ESTRUCTURA DE DATOS\Ejer_Prueba1\bin\Debug\net5.0\Ejer_Prueba1.runtimeconfig.dev.json
+C:\Users\danie\Documents\ESTRUCTURA DE DATOS\Ejer_Prueba1\bin\Debug\net5.0\Ejer_Prueba1.dll
+C:\Users\danie\Documents\ESTRUCTURA DE DATOS\Ejer_Prueba1\bin\Debug\net5.0\ref\Ejer_Prueba1.dll
+C:\Users\danie\Documents\ESTRUCTURA DE DATOS\Ejer_Prueba1\bin\Debug\net5.0\Ejer_Prueba1.pdb
+C:\Users\danie\Documents\ESTRUCTURA DE DATOS\Ejer_Prueba1\obj\Debug\net5.0\Ejer_Prueba1.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\ESTRUCTURA DE DATOS\Ejer_Prueba1\obj\Debug\net5.0\Ejer_Prueba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\ESTRUCTURA DE DATOS\Ejer_Prueba1\obj\Debug\net5.0\Ejer_Prueba1.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\ESTRUCTURA DE DATOS\Ejer_Prueba1\obj\Debug\net5.0\Ejer_Prueba1.AssemblyInfo.cs
+C:\Users\danie\Documents\ESTRUCTURA DE DATOS\Ejer_Prueba1\obj\Debug\net5.0\Ejer_Prueba1.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\ESTRUCTURA DE DATOS\Ejer_Prueba1\obj\Debug\net5.0\Ejer_Prueba1.dll
+C:\Users\danie\Documents\ESTRUCTURA DE DATOS\Ejer_Prueba1\obj\Debug\net5.0\ref\Ejer_Prueba1.dll
+C:\Users\danie\Documents\ESTRUCTURA DE DATOS\Ejer_Prueba1\obj\Debug\net5.0\Ejer_Prueba1.pdb
+C:\Users\danie\Documents\ESTRUCTURA DE DATOS\Ejer_Prueba1\obj\Debug\net5.0\Ejer_Prueba1.genruntimeconfig.cache
